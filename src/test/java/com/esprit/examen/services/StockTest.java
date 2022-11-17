@@ -1,4 +1,4 @@
-ckage com.esprit.examen.services;
+package com.esprit.examen.services;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.times;
