@@ -18,7 +18,7 @@ services:
   app:
     depends_on:
       - mysqldb
-    image:  seifdenguezli/backend-achat
+    image:  zahracarthage/devops-backend
     restart: on-failure
     ports:
       - 8089:8089
